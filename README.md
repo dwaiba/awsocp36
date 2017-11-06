@@ -59,3 +59,6 @@ It is a good idea to go to your Red Hat account portal and ensure that your host
 If you do not already have access to a Red Hat account then go to the following to register and get access (note that that may require a non-personal email address for registration)
 
 [https://www.redhat.com/wapps/eval/index.html?evaluation_id=1026](https://www.redhat.com/wapps/eval/index.html?evaluation_id=1026)
+
+** OpenShift OC Tools Usage **
+
